@@ -1,5 +1,5 @@
 build:
-	docker-compose build --progress=plain --no-cache
+	docker-compose build --no-cache
 
 start:
 	#docker-compose up notebooks
